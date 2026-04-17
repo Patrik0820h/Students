@@ -2,6 +2,7 @@
   "dependencies": {
     "express": "^5.2.1",
     "fs": "^0.0.1-security",
+    "req": "^0.1.4",
     "requirements": "^3.0.0",
     "sqlite3": "^6.0.1"
   }
