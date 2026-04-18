@@ -56,7 +56,7 @@ form.addEventListener('submit', (event) => {
     }
 
     if (!countries.includes(osztaly)) {
-        alert("Hibás osztály!.");
+        alert("Hibás osztály!");
         return;
     }
 
