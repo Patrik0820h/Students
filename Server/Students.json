@@ -1,20 +1,5 @@
 [
   {
-    "id": 4,
-    "nev": "hfthsfe",
-    "osztaly": "10b"
-  },
-  {
-    "id": 5,
-    "nev": "mguktj",
-    "osztaly": "10b"
-  },
-  {
-    "id": 1,
-    "nev": "fe4wtgw4",
-    "osztaly": "9a"
-  },
-  {
     "id": 2,
     "nev": "htdjhthj",
     "osztaly": "9a"
@@ -23,5 +8,30 @@
     "id": 3,
     "nev": "fthfhft",
     "osztaly": "9b"
+  },
+  {
+    "id": 9,
+    "nev": "dawdawd",
+    "osztaly": "9b"
+  },
+  {
+    "id": 8,
+    "nev": "dawdawd",
+    "osztaly": "9c"
+  },
+  {
+    "id": 12,
+    "nev": "aaaaaa",
+    "osztaly": "10b"
+  },
+  {
+    "id": 10,
+    "nev": "aaaaaaaa",
+    "osztaly": "11c"
+  },
+  {
+    "id": 7,
+    "nev": "dawdawd",
+    "osztaly": "12b"
   }
 ]
